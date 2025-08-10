@@ -39,6 +39,7 @@ This tool helped me secure my current job as a Cleaner by massively increasing t
 * Add your .env.
 * Enable Gmail 2FA and generate an App Password.
 * Place your resume as CV Lithierry.pdf in the root folder.
+* Create you csvs folder
 * Put your CSV files in csvs/.
 
 ---
