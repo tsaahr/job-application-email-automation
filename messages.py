@@ -10,6 +10,15 @@ MESSAGES = {
         "Kind regards,\n"
         "Lithierry"
     ),
+    "construction": (
+        "Dear Team,\n\n"
+        "My name is Lithierry, and I’m applying for construction or general labour work.\n\n"
+        "I have Safe Pass and Manual Handling training. My experience includes demolition, mixing mortar, carrying materials, and site clean-up. I’m fit, reliable, and used to physical work and early shifts.\n\n"
+        "I’m fully available and ready to start immediately.\n\n"
+        "Thank you for your time and consideration.\n\n"
+        "Kind regards,\n"
+        "Lithierry"
+    ),
     "kitchen": (
         "Dear Team,\n\n"
         "My name is Lithierry, and I recently arrived in Ireland. I’m writing to express my strong interest in a kitchen porter or back-of-house position in your team.\n\n"

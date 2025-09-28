@@ -22,6 +22,9 @@ def get_job(category):
     if job_title == "cleaner":
         return "Cleaner"
 
+    elif job_title in ["construction", "construção", "builder", "labour", "labor"]:
+        return "Construction Worker"
+
     elif job_title in ["kitchen", "kitchen/restaurant", "restaurant"]:
         return "Kitchen Porter"
 
@@ -37,6 +40,9 @@ def get_message(category):
 
     if category == "cleaner":
         return MESSAGES["cleaner"]
+
+    elif category in ["construction", "construção", "builder", "labour", "labor"]:
+        return MESSAGES["construction"]
 
     elif category in ["kitchen", "kitchen/restaurant", "restaurant"]:
         return MESSAGES["kitchen"]
